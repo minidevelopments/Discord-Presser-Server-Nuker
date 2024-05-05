@@ -1,4 +1,4 @@
-# [OUTDATED] Presser: 7teen Server Nuker
+# [UPDATED] Presser: 7teen Server Nuker
 
 | Presser | 
 | ------------- | 
