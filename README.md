@@ -24,7 +24,7 @@
 | ![mass delete 1](https://user-images.githubusercontent.com/71920969/94821935-0b3a2780-03fa-11eb-8a43-3fb418e373ba.gif) | ![mass channels lol](https://user-images.githubusercontent.com/71920969/94822362-7683f980-03fa-11eb-9759-906d649b6021.gif) | ![massroles](https://media3.giphy.com/media/StXIhkIQKb8sEdXjPj/giphy.gif) |
 
 ### Mass Ping:
-![mass ping lol](https://user-images.githubusercontent.com/71920969/94822656-cb277480-03fa-11eb-97ee-44562785397f.gif)
+![mass ping lol]([https://user-images.githubusercontent.com/71920969/94822656-cb277480-03fa-11eb-97ee-44562785397f.gif](https://user-images.githubusercontent.com/71920969/94822656-cb277480-03fa-11eb-97ee-44562785397f.gif))
 
 ### Help:
 ![help](https://media.discordapp.net/attachments/840525480331575328/886686333307879474/unknown.png)
